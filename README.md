@@ -1,6 +1,6 @@
 # Introduction
 
-These are complete notes on Hands on practice, exercises and installation of hadoop related services including: HDFS, YARN, MapReduce, Pig, Hive, Ambari, Spark, Mesos, TEZ, HBase, Storm, Oozie, Flink, Scoop, Flume, Kafka, MySQL, Cassandra, MongoDB, Drill, Hue, Phoenix, Presto and Zeppelin.
+These are complete notes on Hands on practice, exercises and installation of hadoop related services based on the [Hands on Hadoop Course](https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data) including: HDFS, YARN, MapReduce, Pig, Hive, Ambari, Spark, Mesos, TEZ, HBase, Storm, Oozie, Flink, Scoop, Flume, Kafka, MySQL, Cassandra, MongoDB, Drill, Hue, Phoenix, Presto and Zeppelin.
 
 The live notebook can be found at: [docs/index.html](docs/index.html) 
 
@@ -110,6 +110,4 @@ List of contents:
 
 
 
-
-
-
+[Image]: https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data
