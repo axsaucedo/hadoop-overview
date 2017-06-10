@@ -1,5 +1,6 @@
 # Summary
 
+* [Cheatsheet](CHEATSHEET.md)
 * Section 1
     - [1-1 - Hortonworks Installation](section-1/1-1.md) 
     - [1-2 - The Hadoop Ecosystem](section-1/1-2.md) 
